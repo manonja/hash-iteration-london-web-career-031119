@@ -1,5 +1,3 @@
-
-
 def select_winner(passengers)
   # add the code snippet here!
   passengers = {
@@ -8,5 +6,5 @@ def select_winner(passengers)
   suite_c: "Alfred Tennyson", 
   suite_d: "Charlie Chaplin", 
   suite_e: "Crumpet the Elf"
-}
+  }
 end
